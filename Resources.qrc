@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ziemia.jpg</file>
+        <file>ISS.png</file>
+        <file>pobierz.png</file>
+        <file>ziemia_high.jpg</file>
+        <file>menu.jpg</file>
+        <file>location.png</file>
+        <file>path.png</file>
+        <file>view.png</file>
+        <file>black.png</file>
+        <file>red.jpg</file>
+        <file>dress.jpg</file>
+        <file>gray.jpg</file>
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>close.png</file>
+    </qresource>
+</RCC>
